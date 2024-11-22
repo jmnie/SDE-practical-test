@@ -1,0 +1,8 @@
+**/*venv*/
+.vscode
+**/__pycache__/
+**/*cache*/
+*.log
+.idea/
+src/.DS_Store
+.DS_Store
